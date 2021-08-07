@@ -1,1 +1,2 @@
-import "./js/menu-gallery"
+import "./js/menu-markup"
+import "./js/toggle-themes"

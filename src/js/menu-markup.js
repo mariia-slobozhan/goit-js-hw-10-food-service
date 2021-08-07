@@ -1,5 +1,5 @@
-import menu from "../menu.json";
 import menuCardTmp from "../templates/menu-markup.hbs"
+import menu from "../menu.json"
 
 const menuList = document.querySelector(".js-menu")
 
